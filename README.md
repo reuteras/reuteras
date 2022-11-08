@@ -1,4 +1,4 @@
-### Hi there 👋
+Mastodon: <a rel="me" href="https://infosec.exchange/@reuteras">https://infosec.exchange/@reuteras</a>
 
 <!--
 **reuteras/reuteras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
