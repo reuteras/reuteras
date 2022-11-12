@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reuteras/reuteras/main/images/profile.png" alt="Profile picture"/>
+  <img src="https://raw.githubusercontent.com/reuteras/reuteras/main/images/profile.png" alt="Profile picture" style="width: 150px; height: auto;"/>
 </p>
 
 Mastodon: <a rel="me" href="https://infosec.exchange/@reuteras">https://infosec.exchange/@reuteras</a>
