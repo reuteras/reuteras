@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reuteras/reuteras/main/images/profile.png" alt="Profile picture" style="width: 150px; height: auto;"/>
+  <img src="https://raw.githubusercontent.com/reuteras/reuteras/main/images/profile.jpg" alt="Profile picture" style="width: 150px; height: auto;"/>
 </p>
 
 <p>
