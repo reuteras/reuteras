@@ -5,6 +5,6 @@
 </p>
 
 <p>
-On Mastodon as <a rel="me" href="https://infosec.exchange/@peter_reuteras">https://infosec.exchange/@peter_reuteras</a>.
+I'm on Mastodon as <a rel="me" href="https://infosec.exchange/@peter_reuteras">https://infosec.exchange/@peter_reuteras</a>.
 </p>
 
